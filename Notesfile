@@ -1,0 +1,11 @@
+This is a node js program where we are creating adhoc server
+
+1. Install the apt-get install nodejs-legacy
+2. Execute the application
+
+root@kmaster:/tmp/node.js-recipes# node server.js
+Server running at http://0.0.0.0:9000/
+Server running at http://0.0.0.0:9001/
+Server running at http://0.0.0.0:9002/
+Got to the browser try the port 192.168.20.11:9000
+
